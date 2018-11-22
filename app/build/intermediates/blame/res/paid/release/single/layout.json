@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\home.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\custombtnhover.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\custombtnhover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\custom_row_view.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\custom_row_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\edittextborder.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\edittextborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\addnewrecord.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\addnewrecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\editdata.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\editdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\getproversion.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\getproversion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\passwordchange.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\passwordchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\custombtnhoverpassset.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\custombtnhoverpassset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\viewdata.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\viewdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\customlistviewhover.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\customlistviewhover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\res\\merged\\paid\\release\\layout\\custombtnhoverlogin.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\src\\main\\res\\layout\\custombtnhoverlogin.xml"
+    }
+]

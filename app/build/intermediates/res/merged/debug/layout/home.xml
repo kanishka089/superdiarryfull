@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:id="@+id/hme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:background="@drawable/t2"
+     >
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6699123015236427/1700269194">
+    </com.google.android.gms.ads.AdView>
+      <Button
+         android:id="@+id/addBtn"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/listView1"
+         android:layout_alignParentTop="true"
+         android:layout_marginTop="47dp"
+         android:background="@layout/custombtnhover" />
+     <ListView
+         android:id="@+id/listView1"
+         android:layout_width="fill_parent"
+         android:layout_height="400dp"
+         android:layout_below="@+id/addBtn"
+         android:minHeight="10dp" >
+
+     </ListView>
+
+    
+        
+        />
+
+</RelativeLayout>

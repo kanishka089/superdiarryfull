@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:2:1-114:12
+	package
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:8:2-62
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:8:19-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:9:2-64
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:9:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:10:2-75
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:10:19-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:13:1-71
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:13:18-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:15:1-77
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:15:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:16:1-75
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:16:18-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:17:1-77
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:17:18-74
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:18:1-67
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:18:18-65
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:19:1-68
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:19:18-66
+uses-sdk
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\Yohan\.android\build-cache\25502c3086a984b82596f32e14760917c1901cfd\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\Yohan\.android\build-cache\33424b10601f8fa1cc2eef64f00e236cf8d59892\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Yohan\.android\build-cache\fa9abb683c7b67b04544f115ac1c1214fc3cb342\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\Yohan\.android\build-cache\0e752a58e59319749f55a828800edf617a483c3a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Yohan\.android\build-cache\9652e1d54e3bce3910af3260fe84fbe94b64d91d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Yohan\.android\build-cache\9a0a0d9991a4c0d786a8b2b6bd6e7a469ddfa385\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Yohan\.android\build-cache\e7fb45d7f756152b0a2fda071c0ccd971b40c7dc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Yohan\.android\build-cache\ecbfada24a5a399a8e060e615e33b1066dfcf344\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Yohan\.android\build-cache\d51c46c13ae8fd481a1ffc8e09fe33a67903b127\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Yohan\.android\build-cache\7c3489798911ef50b6a275c3d7f44ec6c8bbda7d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:22:9-38
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:21:9-35
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:24:5-112:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\Yohan\.android\build-cache\33424b10601f8fa1cc2eef64f00e236cf8d59892\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Yohan\.android\build-cache\fa9abb683c7b67b04544f115ac1c1214fc3cb342\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\Yohan\.android\build-cache\0e752a58e59319749f55a828800edf617a483c3a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Yohan\.android\build-cache\9652e1d54e3bce3910af3260fe84fbe94b64d91d\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Yohan\.android\build-cache\9a0a0d9991a4c0d786a8b2b6bd6e7a469ddfa385\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Yohan\.android\build-cache\e7fb45d7f756152b0a2fda071c0ccd971b40c7dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Yohan\.android\build-cache\ecbfada24a5a399a8e060e615e33b1066dfcf344\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Yohan\.android\build-cache\d51c46c13ae8fd481a1ffc8e09fe33a67903b127\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Yohan\.android\build-cache\7c3489798911ef50b6a275c3d7f44ec6c8bbda7d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:26:9-43
+	android:theme
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:28:9-40
+activity#com.diary.superdiary.MainActivity
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:screenOrientation
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:37:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.diary.superdiary.home
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:47:9-57:20
+	android:screenOrientation
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:49:13-45
+	android:theme
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:48:13-33
+intent-filter#android.intent.category.DEFAULT+com.diary.superdiary.login
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:52:13-56:29
+action#com.diary.superdiary.login
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:55:27-73
+activity#com.diary.superdiary.addnewrecord
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:59:9-68:20
+	android:screenOrientation
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:61:13-45
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:60:13-41
+intent-filter#android.intent.category.DEFAULT+com.diary.superdiary.addnew
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:63:13-67:29
+action#com.diary.superdiary.addnew
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:64:17-70
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:64:25-67
+activity#com.diary.superdiary.getproversion
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:70:9-79:20
+	android:screenOrientation
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:71:13-42
+intent-filter#android.intent.category.DEFAULT+com.diary.superdiary.getproversion
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:74:13-78:29
+action#com.diary.superdiary.getproversion
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:75:25-74
+activity#com.diary.superdiary.viewdata
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:81:9-90:20
+	android:screenOrientation
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:83:13-45
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:82:13-37
+intent-filter#android.intent.category.DEFAULT+com.diary.superdiary.viewdata
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:85:13-89:29
+action#com.diary.superdiary.viewdata
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:86:17-72
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:86:25-69
+activity#com.diary.superdiary.editdata
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:91:9-100:20
+	android:screenOrientation
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:93:13-45
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:92:13-37
+intent-filter#android.intent.category.DEFAULT+com.diary.superdiary.editdata
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:95:13-99:29
+action#com.diary.superdiary.editdata
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:96:17-72
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:96:25-69
+activity#com.diary.superdiary.passwordchange
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:101:9-110:20
+	android:screenOrientation
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:103:13-45
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:102:13-43
+intent-filter#android.intent.category.DEFAULT+com.diary.superdiary.passchange
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:105:13-109:29
+action#com.diary.superdiary.passchange
+ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:106:17-74
+	android:name
+		ADDED from C:\Users\Yohan\Desktop\SuperDiary\app\src\main\AndroidManifest.xml:106:25-71
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Yohan\.android\build-cache\9652e1d54e3bce3910af3260fe84fbe94b64d91d\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Yohan\.android\build-cache\9652e1d54e3bce3910af3260fe84fbe94b64d91d\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Yohan\.android\build-cache\9652e1d54e3bce3910af3260fe84fbe94b64d91d\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Yohan\.android\build-cache\9a0a0d9991a4c0d786a8b2b6bd6e7a469ddfa385\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Yohan\.android\build-cache\e7fb45d7f756152b0a2fda071c0ccd971b40c7dc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Yohan\.android\build-cache\ecbfada24a5a399a8e060e615e33b1066dfcf344\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Yohan\.android\build-cache\d51c46c13ae8fd481a1ffc8e09fe33a67903b127\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Yohan\.android\build-cache\7c3489798911ef50b6a275c3d7f44ec6c8bbda7d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\AndroidManifest.xml:26:9-47

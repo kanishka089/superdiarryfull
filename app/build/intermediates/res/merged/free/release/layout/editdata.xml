@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@layout/customlistviewhover" 
+    
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/note"
+        android:layout_width="300dp"
+        android:layout_height="380dp"
+        android:layout_below="@+id/set"
+        android:layout_centerHorizontal="true"
+        android:background="@layout/edittextborder"
+        android:ems="10"
+        android:gravity="top"
+        android:hint="Type Here"
+        android:inputType="textMultiLine"
+        android:textColor="#64B801" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/set"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/note"
+        android:layout_alignParentTop="true"
+        android:background="@layout/custombtnhoverpassset" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/note"
+        android:layout_alignTop="@+id/set"
+        android:layout_marginRight="14dp"
+        android:layout_marginTop="20dp"
+        android:text="TextView"
+        android:textColor="#FFA900" />
+
+</RelativeLayout>

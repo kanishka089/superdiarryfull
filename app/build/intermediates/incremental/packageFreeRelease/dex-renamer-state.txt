@@ -1,0 +1,4 @@
+#Thu Nov 22 17:36:39 IST 2018
+base.0=C\:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\transforms\\dex\\free\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Yohan\\Desktop\\SuperDiary\\app\\build\\intermediates\\transforms\\dex\\free\\release\\folders\\1000\\1f\\main\\classes.dex

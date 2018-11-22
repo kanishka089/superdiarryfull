@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\9652e1d54e3bce3910af3260fe84fbe94b64d91d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_805de8aae83db1e1d9db012b5b777bdabc484955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_64d710faa8745d676050bfb1a59c4a5330153444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\d51c46c13ae8fd481a1ffc8e09fe33a67903b127\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_7b5e268e56d67cf1a501077a5ef00f1d66c7f2c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\Desktop\SuperDiary\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\libGoogleAnalyticsServices_1e7fa7e2369ac9baff279bf8a0bcf4dd3639a4ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\7c3489798911ef50b6a275c3d7f44ec6c8bbda7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_42b18ed81e546372bab4b50e7bf2c1a762ab505d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\CompanyProjects\SuperDiary1\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\25502c3086a984b82596f32e14760917c1901cfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_4768496953e539166fc1be65cd9583e46e9f5e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\e7fb45d7f756152b0a2fda071c0ccd971b40c7dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_98b00936c39a604a97cf2149cadb149d9ef15f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CompanyProjects\SuperDiary1\app\libs\SOMAAndroidSDK4.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c70553c254b0679676d564d9d4a6cf887da8bf9">
+        <dex dex="D:\CompanyProjects\SuperDiary1\app\build\intermediates\pre-dexed\release\SOMAAndroidSDK4.0.7_3413cfa167f3103ae8b12769e65ffca979392fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\33424b10601f8fa1cc2eef64f00e236cf8d59892\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_85a37e60613d22ac46442820de12c15ada81a8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\Desktop\SuperDiary\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices_1e7fa7e2369ac9baff279bf8a0bcf4dd3639a4ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\8b93f853d5d27e7a6ccb7cbbb9ac072a17adf7ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_64d710faa8745d676050bfb1a59c4a5330153444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\0e752a58e59319749f55a828800edf617a483c3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_cc0911f6bce76100a26ad3601b1871aa661ee0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\9652e1d54e3bce3910af3260fe84fbe94b64d91d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_805de8aae83db1e1d9db012b5b777bdabc484955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_6161a56f783cc28a06801835d366f0ed1f0c0149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_dfdefcd9cb4b6f3a5867f9cab7e93d3106913c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\Desktop\SuperDiary\app\libs\SOMAAndroidSDK4.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c70553c254b0679676d564d9d4a6cf887da8bf9">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\SOMAAndroidSDK4.0.7_023e0c5160a443b0ebae127581f0e2d2668c8a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\fa9abb683c7b67b04544f115ac1c1214fc3cb342\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_a4af7f8c547a43b7fc01fa56c8327d31697a6e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\0e752a58e59319749f55a828800edf617a483c3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_cc0911f6bce76100a26ad3601b1871aa661ee0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\fa9abb683c7b67b04544f115ac1c1214fc3cb342\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_a4af7f8c547a43b7fc01fa56c8327d31697a6e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\CompanyProjects\SuperDiary1\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="D:\CompanyProjects\SuperDiary1\app\build\intermediates\pre-dexed\release\libGoogleAnalyticsServices_b16a23e93111785acb5b8f73d9e5a1b22423c4a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\8d958fe29fc2ab52405b33bd3003ae33ad426083\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_dfdefcd9cb4b6f3a5867f9cab7e93d3106913c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\Desktop\SuperDiary\app\libs\SOMAAndroidSDK4.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8c70553c254b0679676d564d9d4a6cf887da8bf9">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\SOMAAndroidSDK4.0.7_023e0c5160a443b0ebae127581f0e2d2668c8a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\9a0a0d9991a4c0d786a8b2b6bd6e7a469ddfa385\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_36a7bd86e9c30706c9c7d385fdf4818f10af0b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\ecbfada24a5a399a8e060e615e33b1066dfcf344\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_82a803a9a9a69bd3aaab8603e01614997a02cf67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\97b0134b1e930f99bb5488a2f6b0f18a57493ace\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_6161a56f783cc28a06801835d366f0ed1f0c0149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\25502c3086a984b82596f32e14760917c1901cfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_4768496953e539166fc1be65cd9583e46e9f5e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\9a0a0d9991a4c0d786a8b2b6bd6e7a469ddfa385\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_36a7bd86e9c30706c9c7d385fdf4818f10af0b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\d51c46c13ae8fd481a1ffc8e09fe33a67903b127\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_7b5e268e56d67cf1a501077a5ef00f1d66c7f2c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\e7fb45d7f756152b0a2fda071c0ccd971b40c7dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_98b00936c39a604a97cf2149cadb149d9ef15f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\7c3489798911ef50b6a275c3d7f44ec6c8bbda7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_42b18ed81e546372bab4b50e7bf2c1a762ab505d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\33424b10601f8fa1cc2eef64f00e236cf8d59892\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\free\debug\classes_85a37e60613d22ac46442820de12c15ada81a8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yohan\.android\build-cache\ecbfada24a5a399a8e060e615e33b1066dfcf344\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Yohan\Desktop\SuperDiary\app\build\intermediates\pre-dexed\debug\classes_82a803a9a9a69bd3aaab8603e01614997a02cf67.jar" />
+    </item>
+
+</items>
